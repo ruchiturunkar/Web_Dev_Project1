@@ -3,6 +3,8 @@
 * Anagha Bhosale
 * Ruchit Urunkar
 
+![](image (2).png)
+
 ### Game description
 
 6 holes is a draw-and-discard game played with usual 52 deck of cards (+1 wild card joker). It is played by two players, each having 6 cards at any given time. The aim is to find a match for each card as early as one can, such that there are three matching pairs of cards.

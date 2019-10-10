@@ -3,7 +3,6 @@
 * Anagha Bhosale
 * Ruchit Urunkar
 
-![alt image](https://github.com/bhosaleanagha/Project1/blob/master/6Holes.png)
 
 ### Game description
 

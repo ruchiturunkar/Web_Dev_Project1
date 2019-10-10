@@ -3,7 +3,7 @@
 * Anagha Bhosale
 * Ruchit Urunkar
 
-![](image (2).png)
+![alt image](https://github.com/bhosaleanagha/Project1/blob/master/image%20(2).png)
 
 ### Game description
 
